@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kihuruta
-- 👀 I’m interested in Data Science and CyberSecurity.
+- 👀 I’m interested in Data Science and CyberSecurity. I am also interested in Creating Learning Platforms.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects for beginners.
 
